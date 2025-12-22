@@ -78,7 +78,7 @@ Document emerging best practices:
 
 Each rule should follow this structure:
 
-```markdown
+````markdown
 # Rule Name
 
 ## Purpose
@@ -107,7 +107,7 @@ Brief description of what this rule achieves
 ## References
 - Related rules: [rule-name.md]
 - External docs: [link]
-```
+````
 
 ### Quality Checklist
 
